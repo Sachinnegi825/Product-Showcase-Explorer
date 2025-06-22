@@ -46,10 +46,6 @@ src/
 │
 ├── context/
 │   └── ProductContext.tsx
-│
-├── hooks/
-│   └── useProducts.ts
-│
 ├── services/
 │   └──api.ts
 ├── types/
